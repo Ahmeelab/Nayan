@@ -1,8 +1,8 @@
 module.exports.config = {
     name: "alluser",
     version: "1.0.5",
-    permission: 0,
-    prefix: false,
+    permission: 2,
+    prefix: true,
     credits: "Deku",
     description: "Get all uid and names in Group.",
     category: "without prefix",
