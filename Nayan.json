@@ -9,17 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "[ . ] • ℜ𝔇𝔛•••»|𝙰𝙷𝙼𝙰𝙳㋛︎",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100024385579728",
+    "100024385579728"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100024385579728",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100024385579728"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
